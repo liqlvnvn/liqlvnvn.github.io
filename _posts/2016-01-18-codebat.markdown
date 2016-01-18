@@ -2,6 +2,7 @@
 layout: post
 title:  "CodingBat"
 date:   2016-01-18 22:34:00
-categories: java practice problems exercises
+tags: java practice problems exercises
+permalink: /codingbat.html
 ---
 ![codingbat.jpg]({{ site.url }}/assets/2016-01/codingbat/codingbat.jpg)

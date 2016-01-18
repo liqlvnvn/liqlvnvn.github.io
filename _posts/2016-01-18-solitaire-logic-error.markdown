@@ -2,7 +2,8 @@
 layout: post
 title:  "Game Logic Error in Solitaire on FirefoxOS"
 date:   2016-01-18 18:54:00
-categories: bugs firefoxOS games
+tags: bugs firefoxOS games
+permalink: /firefoxos-solitaire-error.html
 ---
 Very difficult situation:
 
