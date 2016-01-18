@@ -1,7 +1,12 @@
 ---
 layout: post
-title:  "Solitaire Logic Error"
+title:  "Game Logic Error in Solitaire on FirefoxOS"
 date:   2016-01-18 18:54:00
-categories: jekyll update
+categories: bugs firefoxOS games
 ---
-![screenshot]({{ site.url }}/assets/2016-01/solitaire/solitaire-logic-error.png)
+Very difficult situation:
+
+![solitaire-logic-error.jpg]({{ site.url }}/assets/2016-01/solitaire/solitaire-logic-error.jpg)
+
+
+![error-explanation.jpg]({{ site.url }}/assets/2016-01/solitaire/error-explanation.jpg)
