@@ -7,4 +7,4 @@ permalink: /difficulty-of-learning-programming.html
 ---
 ![difficulty-of-learning-programming.png]({{ site.url }}/assets/2016-03/difficulty-of-learning-programming/difficulty-of-learning-programming.png)
 
-src: https://en.wikipedia.org/wiki/Programming_language
+src: [https://en.wikipedia.org/wiki/Programming_language](https://en.wikipedia.org/wiki/Programming_language)
