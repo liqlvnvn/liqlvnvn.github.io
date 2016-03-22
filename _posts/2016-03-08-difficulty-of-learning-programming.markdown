@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Difficulty of learning programming"
-date:   2016-03-8 09:57:00
+date:   2016-03-08 09:57:00
 tags: programming
 permalink: /difficulty-of-learning-programming.html
 ---
