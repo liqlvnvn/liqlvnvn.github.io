@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Life Satisfacton"
+title:  "Life Satisfaction"
 date:   2017-04-02 15:24:00
 tags:
 permalink: /life-satisfaction.html
